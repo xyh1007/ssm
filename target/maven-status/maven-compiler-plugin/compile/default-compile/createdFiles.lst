@@ -1,0 +1,5 @@
+com\mopaas\ssm\controller\UserController.class
+com\mopaas\ssm\dao\UserMapper.class
+com\mopaas\ssm\service\UserSer.class
+com\mopaas\ssm\domain\User.class
+com\mopaas\ssm\serviceImp\UserSerImp.class
